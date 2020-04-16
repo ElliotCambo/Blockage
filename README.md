@@ -14,4 +14,4 @@ truffle build
 
 truffle serve
 
-You can then run the dapp from the broswer and place contacts on the locally running blockchain
+You can then run the dapp from the broswer and place contracts on the locally running blockchain
